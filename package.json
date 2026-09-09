@@ -22,7 +22,7 @@
     "pitg": "dist/main.js"
   },
   "dependencies": {
-    "@earendil-works/pi-coding-agent": "^0.84.1",
+    "@earendil-works/pi-coding-agent": "^0.85.1",
     "@grammyjs/auto-chat-action": "^0.1.1",
     "@grammyjs/auto-retry": "^2.0.2",
     "@grammyjs/commands": "^1.4.0",
